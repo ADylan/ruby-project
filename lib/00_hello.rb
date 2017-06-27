@@ -9,4 +9,4 @@ end
 
 def greet(someone)
   "Hello, #{someone}!"
-end  
+end   
