@@ -4,7 +4,7 @@
 # to test your code with rspec.
 
 def hello
-  "this is a test"
+  "Hello!"
 end
 
 def greet(someone)
